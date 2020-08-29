@@ -1,5 +1,5 @@
 {
-  "name": "react-countdown-meems",
+  "name": "react-countdown-component",
   "version": "0.1.5",
   "description": "ReactJS Countdown Component",
   "main": "dist/index.js",
@@ -7,7 +7,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/meems1996/React-Countdown-Component"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -4,6 +4,11 @@
 A ReactJS Countdown Component, resizable to the width of its parent element.
 
 ## Usage
+
+Clone this repository 
+
+Or install from npm : `npm install react-countdown-component`
+
 ```js
 import React from 'react';
 import CountdownContainer from 'react-countdown-component';
